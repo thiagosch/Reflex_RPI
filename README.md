@@ -2,11 +2,12 @@
 Configuracion | Note taking
 
 
+[Documentacion gphoto2](http://www.gphoto.org/doc/manual/ref-gphoto2-cli.html)
+
 - [Configuracion del sistema](#configuracion-del-sistema)
     - [Requisitos del sistema](#requisitos-del-sistema)
     - [Configuracion del virtual enviroment](#configuracion-del-virtual-enviroment)
     - [activacion virutal enviroment](#activacion-virutal-enviroment)
-    - [Instalacion de la libreria](#instalacion-de-la-libreria)
 - [Configuracion](#configuracion)
     - (Incrementar SWAP)[#incrementar-swap] 
 
@@ -18,7 +19,7 @@ Configuracion | Note taking
 #### Requisitos del sistema
 
   ```bash
-  sudo apt install python3 python3-pip libexif12 libgphoto2-6 libgphoto2-port12 libltdl7 libgphoto2-dev gphoto2
+  sudo apt install python3 python3-pip gphoto2
   ```
 
 
@@ -32,11 +33,6 @@ Configuracion | Note taking
 
 ```bash
 source ./venv/bin/activate
-```
-
-#### Instalacion de la libreria
-```bash
-(venv) pip install gphoto2
 ```
 
 <hr>
