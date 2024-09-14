@@ -9,8 +9,7 @@ Configuracion | Note taking
     - [Configuracion del virtual enviroment](#configuracion-del-virtual-enviroment)
     - [activacion virutal enviroment](#activacion-virutal-enviroment)
 - [Configuracion](#configuracion)
-    - (Incrementar SWAP)[#incrementar-swap] 
-
+    - [Incrementar SWAP](#incrementar-swap)
 <hr>
 
 # Configuracion del sistema
