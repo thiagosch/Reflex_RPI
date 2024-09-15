@@ -2,6 +2,8 @@
 Configuracion | Note taking
 
 
+https://pimylifeup.com/raspberry-pi-watchdog/
+
 [Documentacion gphoto2](http://www.gphoto.org/doc/manual/ref-gphoto2-cli.html)
 
 - [Configuracion del sistema](#configuracion-del-sistema)
