@@ -1,9 +1,9 @@
 # Reflex_RPI
 Configuracion | Note taking
 
+[watchdog](https://pimylifeup.com/raspberry-pi-watchdog/)
 
-https://pimylifeup.com/raspberry-pi-watchdog/
-https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/networking_guide/sec-configuring_ip_networking_with_nmtui
+
 [Wifi Helper(nmtui)](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/networking_guide/sec-configuring_ip_networking_with_nmtui
 )
 
