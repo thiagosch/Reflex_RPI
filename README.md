@@ -72,3 +72,6 @@ sudo /etc/init.d/dphys-swapfile restart
 
 
 
+<h1>Posible configuracion desde equipo remoto</h1>
+<p>ssh user@192.168.0.2 "crontab -l | { cat; echo '0 2 * * * /path/to/script.sh'; } | crontab -"</p>
+
